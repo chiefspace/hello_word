@@ -34,7 +34,7 @@ Dialog popup window to show what exactly was edited.  Find if no popup, then use
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://dl.dropboxusercontent.com/u/5618818/Development/GIF/ToDO-walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.google.com' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
